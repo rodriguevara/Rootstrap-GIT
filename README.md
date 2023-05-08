@@ -24,3 +24,4 @@
 
 Prueba rebase. RodriC
 
+modificación - prueba git conflicts
