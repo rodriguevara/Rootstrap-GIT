@@ -21,3 +21,6 @@
 - rebase: the command applies any commits of current branch ahead of specified one [branch]
 - webhooks: Repository webhooks allows to receive HTTP POST payloads whenever certain events happen in a repository.
 - Github actions: Helps automate software workflows. Continuous integration (CI) is a software practice that requires frequently committing code to a shared repository. It helps reducing time resolving conflicts or debugging. GitHub runs CI tests and provides the results of each test in the pull request, so the user can see whether the change in the branch introduces an error. When all CI tests in a workflow pass, the pushed changes are ready to be reviewed or merged. Continuous deployment (CD) is the practice of using automation to publish and deploy updates. As part of the typical CD process, the code is automatically built and tested before deployment. 
+
+Prueba rebase. RodriC
+
